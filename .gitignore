@@ -1,0 +1,8 @@
+# node modules
+/node_modules
+
+# firebase txt
+/firebase.txt
+
+#env
+/.env
